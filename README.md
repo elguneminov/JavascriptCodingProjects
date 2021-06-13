@@ -2,7 +2,6 @@
 
 <br>
 
-**All projects** of my [web app](javascriptcoding.org) can be found in this repository.
 
 These projects are divided into **levels of difficulty** and **programming languages**.
 <br><br><hr>
